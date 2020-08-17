@@ -1,3 +1,3 @@
-# utils
+# Utils
 
-a
+This repo is for storing utilities.
